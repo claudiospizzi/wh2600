@@ -11,3 +11,16 @@ WS-1400. The weather logger does not provide a native api, so we load and parse
 the live data page:
 
 * [http://ip-of-weather-station/livedata.html](http://ip-of-weather-station/livedata.html)
+
+## Example
+
+```typescript
+import { WeatherStation } from 'wh2600';
+
+//
+const weatherStation = new WeatherStation('192.168.120.61');
+
+//
+const weatherData = weatherStation.getWeatherData();
+console.log(weatherData);
+```
