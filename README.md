@@ -10,4 +10,4 @@ Froggit WH2600 / WH2601 / WH2600 SE, Conrad Renkforce WH2600 and Ambient Weather
 WS-1400. The weather logger does not provide a native api, so we load and parse
 the live data page:
 
-* [http://<ip-of-weather-station>/livedata.html](http://<ip-of-weather-station>/livedata.html)
+* [http://ip-of-weather-station/livedata.html](http://ip-of-weather-station/livedata.html)

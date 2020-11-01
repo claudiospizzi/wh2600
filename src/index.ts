@@ -1,6 +1,2 @@
-import { WeatherStation } from './WeatherStation.js';
-
-// export = {
-//   WeatherData,
-//   WeatherStation,
-// };
+export * from './WeatherData.js';
+export * from './WeatherStation.js';
