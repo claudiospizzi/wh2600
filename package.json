@@ -1,6 +1,6 @@
 {
   "name": "wh2600",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module to read data from the WH2600 weather station.",
   "type": "module",
   "main": "lib/index.js",
