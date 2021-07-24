@@ -11,5 +11,6 @@
     "strict": true,                             // Enable all strict type-checking options
     "forceConsistentCasingInFileNames": true,   // Ensure consistent file casing having the same behavior on multiple platforms
     "sourceMap": true,                          // Generates .map files mapping source TypeScript to compiled JavaScript for debugging
+    "declaration": true,                        // Generate the .d.ts type files for a valid TypeScript module
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "wh2600",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "WH2600 weather station typescript module.",
   "keywords": [
     "wh2600",
@@ -57,6 +57,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.3.2",
+    "replace-in-file": "^6.2.0",
     "typescript": "^4.3.5"
   }
 }
