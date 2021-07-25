@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/node-red-contrib-wh2600.svg?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-wh2600)
+[![npm](https://img.shields.io/npm/v/wh2600.svg?style=flat-square)](https://www.npmjs.com/package/wh2600)
 
 # wh2600
 
