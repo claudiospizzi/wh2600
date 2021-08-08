@@ -26,4 +26,4 @@ console.log(weatherData);
 
 ## Constraint
 
-This module is not associated with any of the weather station manufacturers.
+This module is not associated with any of the weather station manufacturers. Use at your own risk. Please note the [license terms](LICENSE).
