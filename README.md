@@ -1,5 +1,9 @@
 [![npm](https://img.shields.io/npm/v/wh2600.svg?style=flat-square)](https://www.npmjs.com/package/wh2600)
 
+# DEPRECATION WARNING
+
+This module is deprecated and not developed anymore. Please use the [node-red-contrib-wh2600](https://github.com/claudiospizzi/node-red-contrib-wh2600) module instead.
+
 # wh2600
 
 WH2600 weather station typescript module.
